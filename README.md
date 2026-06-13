@@ -1,5 +1,9 @@
-## Hi there 👋
-
+## Hi there 👋 my name is Francis.I am a 22 year years old currently a computer programming,
+and a trading student.
+I hope that I will be able to understand the subjects Iam studying and calling out on anyone 
+who understands the subjects mentioned above to tutor me.
+To anyone interested,you can reach me through my email at wacekefrancis2@gmail.com or even through 
+my WhatsApp number 0111331873.thank you
 <!--
 **wacekefrancis2-droid/wacekefrancis2-droid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
