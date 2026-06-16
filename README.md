@@ -1,9 +1,23 @@
-## Hi there 👋 my name is Francis.I am a 22 year years old currently a computer programming,
-and a trading student.
-I hope that I will be able to understand the subjects Iam studying and calling out on anyone 
-who understands the subjects mentioned above to tutor me.
-To anyone interested,you can reach me through my email at wacekefrancis2@gmail.com or even through 
-my WhatsApp number 0111331873.thank you
+# Hi, I'm [Francis waceke]
+
+## About Me
+- I'm currently learning [what you're studying computer programming in mahanaim college
+- in the free courseprogramm.
+- - I'm interested in html,python,java and many other programming languages and also in finacial
+  - fields such as trading and investing.
+- I'm looking to collaborate on projects that will help sharpen my programming skills and become
+- better.
+
+## Skills I'm Building
+- Git and GitHub
+- html,python,java and trading.
+
+## Current Projects
+updating my repo.
+
+## How to Reach Me
+- Email: wacekefrancis2@gmail.com
+- no. 0111331873
 <!--
 **wacekefrancis2-droid/wacekefrancis2-droid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
