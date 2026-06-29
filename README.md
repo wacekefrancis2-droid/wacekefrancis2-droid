@@ -1,19 +1,17 @@
-# Hi, I'm [Francis waceke]
+# Hi, I'm Francis waceke
 
 ## About Me
-- I'm currently learning [what you're studying computer programming in mahanaim college
-- in the free courseprogramm.
-- - I'm interested in html,python,java and many other programming languages and also in finacial
-  - fields such as trading and investing.
-- I'm looking to collaborate on projects that will help sharpen my programming skills and become
-- better.
-
+I'm  astudent in mahanaim college in the iyf free tertiary rducation program. 
+i major in the programming course where i learn the major programming languages 
+such as *html*,*JavaScript*,*python*and*css*.
 ## Skills I'm Building
-- Git and GitHub
-- html,python,java and trading.
-
+**html**
+**python**
+**git and GitHub**
+**css** etc.
 ## Current Projects
-updating my repo.
+I'm currently learning how to use --GitHub--,and create --index html files--
+andalso some --web development--.
 
 ## How to Reach Me
 - Email: wacekefrancis2@gmail.com
