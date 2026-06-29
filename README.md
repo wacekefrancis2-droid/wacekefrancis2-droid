@@ -7,9 +7,9 @@ such as *html*,*JavaScript*,*python*and*css*.
 ## Skills I'm Building
 -**html**
 -**python**
--**git and GitHub**
--**css** etc.
-## Current Projects
+**git and GitHub**
+**css** etc.
+ Current Projects
 I'm currently learning how to use --GitHub--,and create --index html files--
 andalso some --web development--.
 
